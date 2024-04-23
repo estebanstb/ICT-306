@@ -42,9 +42,10 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 - On évalue notre habileté à écrire des User Story et nos connaissances SWOT (Test #1)
 - On découvre les principes de l'agilité.
+- On comprend les attentes en termes de documentation
 - On apprend à mettre en évidence les différences entre deux fichiers Word dans le but de faciliter la lecture à notre client
 
-(Jeu des jetons, Définition de l'agilité, Manifeste Agile, Features)
+(Jeu des jetons, Définition de l'agilité, Manifeste Agile, Modèle de rapport)
 
 ### [Semaine 4](Séquences/2024-17.md) (2024-17)
 
@@ -56,10 +57,9 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 5](Séquences/2024-18.md) (2024-18)
 
-- On ne fait pas grand chose du côté théorie, car le cours est supprimé (concours d'admission)
-- On se remet en route après les vacances
-- On exécute le sprint numéro 2
+- On exécute le sprint numéro 2, le premier sprint de construction
 
+(Intégration, Burnup/Burndown chart, vélocité)
 
 ### [Semaine 6](Séquences/2024-19.md) (2024-19)
 
@@ -72,14 +72,14 @@ _([V4, ordonnance 2021](https://www.modulbaukasten.ch/module/306/4/fr-FR?title=R
 
 ### [Semaine 7](Séquences/2024-20.md) (2024-20)
 
+- On évalue l'état de nos connaissances (Test #2)
 - On planifie le sprint numéro 4
 - On exécute le sprint numéro 4
 
-(Intégration, Burnup/Burndown chart, vélocité)
 
 ### [Semaine 8](Séquences/2024-21.md) (2024-21)
 
-- On évalue l'état de nos connaissances (Test #2)
+- On ne fait pas grand chose du côté théorie, car le lundi est ferié (Pentecôte)
 - On planifie le sprint numéro 5
 - On exécute le sprint numéro 5
 
